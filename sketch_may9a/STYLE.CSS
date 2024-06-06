@@ -1,0 +1,35 @@
+body{
+background-color: #ffffff;
+background-color: ;
+
+h1{
+    color: #31ca0b;
+    text-align: center;
+    
+}
+
+h2{ 
+    color: darkorange;
+
+}
+h3{
+    color: darkorange;
+    font-family: monospace;
+
+}
+h4{ 
+    color: darkorange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+table {
+    border-style: outset;
+    border-width: 1px;
+    border-bottom: 2px;
+}
+td,th {
+    border-style: inset;
+    border-width: 1px;
+}
+
+}
